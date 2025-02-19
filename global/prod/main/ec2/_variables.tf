@@ -6,7 +6,7 @@ variable "default_tags" {
 }
 
 variable "key_name" {
-  default = "csmithaws"
+  default = "my_aws_key"
   type = string
 }
 
